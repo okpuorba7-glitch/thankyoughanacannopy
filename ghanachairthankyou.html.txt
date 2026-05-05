@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Order Confirmed! — SwingComfortGH</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '981242817933782');
+fbq('track', 'PageView');
+fbq('track', 'Purchase', {value: 6050, currency: 'GHS'});
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=981242817933782&ev=Purchase&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+<!-- TikTok Pixel Code Start -->
+<script>
+!function (w, d, t) {
+  w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie","holdConsent","revokeConsent","grantConsent"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(
+var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var r="https://analytics.tiktok.com/i18n/pixel/events.js",o=n&&n.partner;ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=r,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};n=document.createElement("script")
+;n.type="text/javascript",n.async=!0,n.src=r+"?sdkid="+e+"&lib="+t;e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)};
+  ttq.load('D7RJ3UBC77U44OJIR0C0');
+  ttq.page();
+  ttq.track('CompletePayment', {value: 6050, currency: 'GHS'});
+}(window, document, 'ttq');
+</script>
+<!-- TikTok Pixel Code End -->
+
+<style>
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:'DM Sans',sans-serif;background:#FDF8F0;min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:40px 20px;}
+.card{background:#fff;border-radius:24px;padding:48px 36px;max-width:520px;width:100%;text-align:center;box-shadow:0 16px 60px rgba(0,0,0,.1);border-top:6px solid #2D6A4F;}
+.check-circle{width:90px;height:90px;background:linear-gradient(135deg,#2D6A4F,#40916C);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 28px;font-size:2.8rem;}
+h1{font-family:'Playfair Display',serif;font-size:2rem;color:#1A1A1A;margin-bottom:12px;line-height:1.2;}
+h1 span{color:#2D6A4F;}
+.sub{font-size:1rem;color:#4A4A4A;line-height:1.8;margin-bottom:32px;}
+.info-box{background:#E8F5EE;border-radius:14px;padding:20px 24px;margin-bottom:28px;text-align:left;}
+.info-row{display:flex;align-items:flex-start;gap:12px;margin-bottom:14px;}
+.info-row:last-child{margin-bottom:0;}
+.info-icon{font-size:1.3rem;margin-top:2px;}
+.info-text{font-size:.9rem;color:#1A1A1A;line-height:1.6;}
+.info-text strong{color:#2D6A4F;display:block;font-size:.78rem;text-transform:uppercase;letter-spacing:.5px;margin-bottom:2px;}
+.wa-btn{display:block;background:#25D366;color:#fff;font-weight:700;font-size:1rem;padding:16px 28px;border-radius:50px;text-decoration:none;margin-bottom:14px;transition:transform .2s;}
+.wa-btn:hover{transform:translateY(-2px);}
+.back-btn{display:block;background:#f0f0f0;color:#4A4A4A;font-weight:600;font-size:.9rem;padding:14px 28px;border-radius:50px;text-decoration:none;}
+.footer-note{margin-top:28px;font-size:.78rem;color:#aaa;line-height:1.7;}
+</style>
+</head>
+<body>
+
+<div class="card">
+  <div class="check-circle">&#10003;</div>
+
+  <h1>Order <span>Confirmed!</span><br>Thank You!</h1>
+
+  <p class="sub">
+    Your swing chair order has been received successfully.
+    We will call you shortly to confirm your delivery details.
+  </p>
+
+  <div class="info-box">
+    <div class="info-row">
+      <div class="info-icon">&#128222;</div>
+      <div class="info-text">
+        <strong>Next Step</strong>
+        Expect a confirmation call from us within a few hours. Please keep your phone nearby!
+      </div>
+    </div>
+    <div class="info-row">
+      <div class="info-icon">&#128666;</div>
+      <div class="info-text">
+        <strong>Delivery Time</strong>
+        1 to 3 business days depending on your location across Ghana.
+      </div>
+    </div>
+    <div class="info-row">
+      <div class="info-icon">&#128181;</div>
+      <div class="info-text">
+        <strong>Payment</strong>
+        You pay ONLY when the item arrives at your door. Cash or MoMo accepted.
+      </div>
+    </div>
+    <div class="info-row">
+      <div class="info-icon">&#128205;</div>
+      <div class="info-text">
+        <strong>Our Number</strong>
+        +62 821 1474 5747 — Call or WhatsApp us anytime.
+      </div>
+    </div>
+  </div>
+
+  <a href="https://wa.link/nk6de0" class="wa-btn">
+    &#128172; Chat With Us on WhatsApp
+  </a>
+  <a href="/" class="back-btn">
+    &#8592; Back to Homepage
+  </a>
+
+  <p class="footer-note">
+    SwingComfortGH &mdash; Premium Outdoor Furniture for Ghanaian Homes<br>
+    &copy; 2025 SwingComfortGH. All rights reserved.
+  </p>
+</div>
+
+</body>
+</html>
